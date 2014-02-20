@@ -1,23 +1,15 @@
 {
-  "name": "dom-event",
-  "version": "0.3.0",
+  "name": "jkroso-dom-event",
   "description": "low level helper for creating dom event objects",
-  "dependencies": {
-    "keycode": "http://github.com/jkroso/keycode/tarball/0.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jkroso/dom-event.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jkroso/dom-event/issues"
-  },
+  "version": "0.3.0",
   "keywords": [
     "dom",
     "event",
     "factory",
     "custom"
   ],
-  "author": "Jakeb Rosoman",
+  "dependencies": {
+    "jkroso-keycode": "git://github.com/npmcomponent/jkroso-keycode.git"
+  },
   "license": "MIT"
 }

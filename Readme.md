@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jkroso/dom-event](http://github.com/jkroso/dom-event). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jkroso-dom-event`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # dom-event
 
 low level helper for creating DOM event objects. It abstracts away the goofiness of the DOM api and browser quirks.

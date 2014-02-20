@@ -1,5 +1,5 @@
 
-var codes = require('keycode').codes
+var codes = require('jkroso-keycode').codes
 var Event = window.Event
 
 /**
